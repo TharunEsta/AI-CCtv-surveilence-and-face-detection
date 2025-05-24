@@ -1,0 +1,13 @@
+# requirements.txt
+
+# Ultralytics YOLOv8 (object detection)
+git+https://github.com/ultralytics/ultralytics.git
+
+# DeepSort (object tracking) 
+git+https://github.com/ZQPei/deep_sort_pytorch.git
+
+#Other Dependencies
+opencv-python
+numpy
+torch
+
